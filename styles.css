@@ -3,3 +3,14 @@
     color: #ffffff;
 }
 
+#button{
+    border-style: solid;
+    border-radius: 15px;
+    background-color: green;
+    color: #ffffff;
+    font-size: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
